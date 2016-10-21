@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+.header{ height:119px; background:url(../images/wkt_1_01.jpg) no-repeat center; background-color:#f9f8ef;}
+.center{ width:941px; margin:0 auto; overflow:hidden;}
+.nav{ background-color:#82726b;}
+.nav li{ height:30px; float:left; list-style:none; margin:0 15px;}
+.nav li a{ line-height:30px; color:#eae1d6;}
+.nav li .new{ background-color:#bb0101; color:#fff; display:inline-block; width:16px; height:16px;}
+
+.search{ background-color:#e8e3db;}
+.search li{ height:30px; float:left; list-style:none; margin:0 50px 0 15px; line-height:30px; color:#82726b;}
+.search li a{color:#82726b;}
+.search .searchbox input{ float:left; height:20px; border:1px solid #82726b; padding:0;margin:4px 0;}
+.search .searchbox span{ float:left;height:22px; width:38px; background:#82726b; margin:4px 0; color:#dfd9d2; line-height:22px; font-weight:bold; text-align:center;}
+.ad{ background-color:#f9f8ef;}
+.ad img{ margin:0 auto; width:100%;}
+
+.container{background:url(../images/wkt_3_02.png) repeat-y center; background-color:#f9f8ef; height:4700px;}
+.container .content center{} 
+.container .wen{ height:481px;background:url(../images/wkt_2_03.jpg) no-repeat center;}
+.container .piao{ float:right;margin-top:30px; margin-right:95px; text-align:13px;}
+.container .mood{ font-size:24px; font-weight:bold; }
+.container .wenzi{ margin-right:95px; font-size:16px;} 
+
+.container .new{ height:720px; background:url(../images/wkt_2_07.jpg) no-repeat center;}
+.container .ping{width:715px; height:675px; float:left; padding-left:19px; padding-top:21px;}
+.container .ping .qing{ height:330px;float:left; list-style:none; border:1px solid #AC9485; background-color:#F3F0E7;}
+.qing .biankuang{ margin:5px 5px 0;}
+.qing span{ height:35px; line-height:35px; margin-left:5px;}
+.ping .qing .jia{ float:right; margin-right:6px;font-weight:bold;}
+
+.container .re{ height:1041px; background:url(../images/wkt_2_12.png) no-repeat center;}
+.container .men{width:715px; height:675px; float:right; margin-right:19px;}
+.container .qing{ height:330px;float:left; list-style:none; margin-left:5px; margin-top:10px; border:1px solid #AC9485; background-color:#F3F0E7;}
+.re .men .jia{ float:right; margin-right:6px;font-weight:bold;}
+
+.container .dian{ height:919px; background:url(../images/wkt_2_16.jpg) no-repeat center;}
+.container .zang{width:780px; height:876px;}
+.zang .waibian{ width:800px; height:890px; padding:21px 0 0 19px;}
+.zang .qing{ height:290px; margin:2px;}
+.qing span{height:30px; line-height:30px; margin-left:5px;}
+.dian .zang .jia{display:block; height:20px; line-height:20px; font-weight:bold;}
+
+.container .fen{height:348px;background:url(../images/wkt_2_20.jpg) no-repeat center;}
+.container .fen .kai{ width:75px; height:18px; font-size:16px; font-weight:bold; padding-top:25px; margin-left:95px; display:block; float:left; color:#6b6666;}
+.container .fen .hang{ width:730px; float:right; margin-top:25px; margin-right:40px;}
+.container .fen .dao{margin-right:10px; margin-left:5px; color:#6b6666;}
+
+
+.container .fen .shui{ width:75px; height:18px; font-size:16px; font-weight:bold; padding-top:25px; margin-left:95px; display:block; float:left; color:#6b6666;}
+.container .fen .two{ width:730px; margin-top:25px; margin-right:40px; float:left;}
+
+
+.container .fen .an{width:75px; height:18px; font-size:16px; font-weight:bold; padding-top:35px; margin-left:95px; display:block; float:left; color:#6b6666;}
+.container .fen .three{width:730px; margin-top:35px; margin-right:40px; float:left;}
+
+
+.container .fen .qi{width:730px; margin-right:40px; float:left;}
+
+.container .fen .qian{ width:75px; height:18px; font-size:16px; font-weight:bold; padding-top:35px; margin-left:95px; display:block; float:left; color:#6b6666;}
+.container .fen .four{margin-top:35px; margin-right:20px; float:left;}
+.container .fen .fourr{ margin-right:10px; float:left;}
+
+
+.container .fen .hou{ width:75px; height:18px; font-size:16px; font-weight:bold; padding-top:20px; padding-left:95px; display:block; color:#6b6666; float:left}
+.container .fen .five{ margin-top:20px; margin-right:20px; float:left;}
+.container .fen .fivee{ margin-right:10px; float:left;}
+
+
+.container .fen .wu{ width:75px; height:18px; font-size:16px; font-weight:bold; padding-top:20px; margin-left:95px; display:block; color:#6b6666; float:left}
+.container .fen .six{ margin-top:20px; margin-right:20px; float:left;}
+.container .fen .sixx{ margin-right:10px; float:left;}
+
+
